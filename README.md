@@ -1,2 +1,2 @@
-# GW-Catalogues-and-LISA-search
+# GW Catalogues and LISA search
 I give here some notebooks to calculate the number of events above some SNR threshold for LISA. I also have a notebook to build a full catalogue with last year LIGO posteriors.
